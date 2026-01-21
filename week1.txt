@@ -1,0 +1,16 @@
+121. Best Time to Buy and Sell Stock
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1838355595
+
+28. Find the Index of the First Occurrence in a String.
+https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1891857192
+
+938. Range Sum of BST
+https://leetcode.com/problems/range-sum-of-bst/submissions/1751147715
+
+204. Count Primes
+
+41. First Missing Positive
+https://leetcode.com/problems/first-missing-positive/submissions/1884710006
+
+4. Median of Two Sorted Arrays
+https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1886076543
